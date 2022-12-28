@@ -1,7 +1,8 @@
-# PYAccessWebData
-Using Python to Access Web Data
+# Access Web Data 👩‍💻
+### Using Python to Access Web Data 💻
 
-HI!
+- # HI! 🙋🏽‍♀️
+
 This repo 
 contains exercises and examples from chapters 11, 12 and 13 of the book 
  "Python for everybody"📚
