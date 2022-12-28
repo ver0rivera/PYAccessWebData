@@ -1,0 +1,8 @@
+¿Por qué deberías aprender a escribir programas? 7746 
+12 1929 8827 
+Escribir programas (o programar) es una actividad 7 muy creativa 
+y gratificante. Puede escribir programas por 
+muchas razones, que van desde ganarse la vida hasta resolver 
+un 8837 problema difícil de análisis de datos, divertirse o ayudar a 
+alguien más a resolver un problema. Este libro asume que 
+todo el mundo necesita saber cómo programar...
